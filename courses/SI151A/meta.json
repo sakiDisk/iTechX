@@ -3,6 +3,23 @@
     "name": "Convex Optimization and Its Applications in Information Science",
     "semesters": [
         {
+            "season": "Fall",
+            "year": "2024",
+            "course_id": "SI151A.01",
+            "department": "信息科学与技术学院",
+            "credit": "3",
+            "hours": "48",
+            "prerequisite": "SI140A, Linear Algebra",
+            "evaluation": "3 Homework, 2-hour open book Final Exam(week 12), Project(week 12 to 16, need a proposal and final submission)",
+            "teacher": [
+                "shiym"
+            ],
+            "ta": [
+                "unknown"
+            ],
+            "mainpage": "null"
+        },
+        {
             "course_id": "SI151A.01",
             "season": "Fall",
             "year": "2021",
